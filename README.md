@@ -1,6 +1,8 @@
 # Natural-Language-Processing-in-TensorFlow
 
-#### Tokenizer handles the heavy lifting for us, generating the dictionary of word encodings and creating vectors out of the sentences. 
+#### Tokenizer handles the heavy lifting for us, generating the dictionary of word encodings and creating vectors out of the sentences.
+
+
 
 
 
