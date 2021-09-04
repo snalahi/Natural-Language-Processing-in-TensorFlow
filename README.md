@@ -1,2 +1,39 @@
 # Natural-Language-Processing-in-TensorFlow
-TensorFlow Developer Professional Certificate
+
+#### Tokenizer handles the heavy lifting for us, generating the dictionary of word encodings and creating vectors out of the sentences. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
