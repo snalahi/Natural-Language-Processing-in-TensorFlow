@@ -7,3 +7,7 @@ from that, where we make it phrase the Xs and the next word in that phrase to be
 What if we were to create training data where the Xs are Twinkle, Twinkle, Little, and the Y is star. Then, whenever neural network sees the words Twinkle,
 Twinkle, Little, the predicted next word would be star. Thus given enough words in a corpus with a neural network trained on each of the phrases in that
 corpus, and the predicted next word, 
+
+#### New Word Generation with Small Corpus:
+#### https://www.coursera.org/learn/natural-language-processing-tensorflow/lecture/B80b0/notebook-for-lesson-1
+
