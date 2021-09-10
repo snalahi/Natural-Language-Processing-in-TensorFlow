@@ -5,3 +5,5 @@ the network to impact it. This helps keep context from earlier tokens relevance 
 sentences can be avoided.
 
 #### Cell states can also be bidirectional. So later contexts can impact earlier ones.
+
+### LSTM in a nutshell: https://www.coursera.org/learn/natural-language-processing-tensorflow/lecture/JZyMO/lstms
